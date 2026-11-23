@@ -78,3 +78,7 @@ verwijst naar het eerdere (bijvoorbeeld B36 en B38 over de test, en B39 tot en m
 Mijn memory-export en lokale memory, klant- en prospectgegevens, de ruwe testuitvoer en de projectbestanden van
 mijn bedrijf. Verwijzingen in de besluiten en de werkwijze naar bestanden als `5_data` of `test_v2.md` wijzen naar
 het volledige werkarchief en staan niet in deze repo.
+
+## Licentie
+
+CC BY 4.0 (naamsvermelding), zie [LICENSE](LICENSE). Je mag de tekst hergebruiken en aanpassen, ook commercieel, mits je de bron noemt.
